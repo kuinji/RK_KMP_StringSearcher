@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(ArithmeticExpression LANGUAGES CXX)
+project(RK_KMP_StringSearcher LANGUAGES CXX)
 
 if(NOT CMAKE_CXX_EXTENSIONS)
     set(CMAKE_CXX_EXTENSIONS OFF)
