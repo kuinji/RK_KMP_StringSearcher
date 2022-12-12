@@ -6,6 +6,7 @@
 *.dep
 *.res
 *.resources
+*.sln
 
 # Precompiled Headers
 *.gch
@@ -28,6 +29,9 @@
 *.exe
 *.out
 *.app
+
+*.vs
+*.ipynb_checkpoints
 
 # Folders
 build/
